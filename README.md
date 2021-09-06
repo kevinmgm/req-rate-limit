@@ -18,7 +18,7 @@ For an API-only server.
 
 ```js
 // In the follow project you can see how implement it's better
-// Click to
+// Click to https://github.com/kevinmgm/back-test-module.git
 const limiter = require('req-rate-limit');
 
 // Consider configure in your server express app.set('trust proxy', true);
