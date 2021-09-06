@@ -1,0 +1,33 @@
+{
+  "name": "req-rate-limit",
+  "version": "1.0.0",
+  "description": "Limiter of request to api",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "npm run ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "package",
+    "rate-limit",
+    "limit",
+    "request-limit"
+  ],
+  "author": "Kevin Gaitan <kevinmauricio14@hotmail.com>",
+  "license": "MIT",
+  "optionalDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "dependencies": {
+    "eslint": "^7.32.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinmgm/req-rate-limit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kevinmgm/req-rate-limit/issues"
+  },
+  "homepage": "https://github.com/kevinmgm/req-rate-limit#readme"
+}
